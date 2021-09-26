@@ -1,3 +1,6 @@
 <h1>HelloWorld</h1>
 
 <p>parent</p>
+
+<?php
+phpinfo();
